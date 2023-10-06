@@ -1,0 +1,19 @@
+body {
+  background: rgb(66, 66, 66);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.card {
+  background: yellow;
+}
+.main-heading {
+  background: white;
+}
+.course {
+  background: yellowgreen;
+  display: flex;
+  justify-content: space-between;
+}
